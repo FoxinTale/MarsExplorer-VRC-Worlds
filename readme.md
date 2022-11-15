@@ -5,7 +5,7 @@ This is a master repository of worlds ported from a long since dead game called 
 ### What was this game?
 Mars Explorer was a multiplayer online game consisting of many user made worlds, where you as the player could drive around on a world in a buggy (which could also fly via gliding), a fighter jet, an alien tank or hovercraft. It also had a laser tag mechanic where you could "tag" the other players. 
 
-Now, this game was around from around 2009 to 2015, when the servers shut down and the world links began to rapidly decay. In 2022 there are a handful of worlds left from what there used to be. 
+Now, this game was around from around 2009 to 2015, when the servers shut down and the world links began to rapidly decay. Now, 10+ years later, there are a handful of worlds left from what there used to be. 
 
 As the servers shut down there was functionally no easy way to paly the game with friends. This is an attempt, utilizing Saccan's flight and vehicles project to at least somewhat revive the game.
 
@@ -25,6 +25,6 @@ Sure! If you want to do any modifications, you will first need to download and i
 
 Open the project and wait for everything to compile / download. Once done, download this repository and go into the world folder  of your choice. Drag and drop all the contents to the assets window in Unity. Wait for it to import (shouldn't take long).
 
-Now, import the latest release of [Sacc Flight and Vehicles](https://github.com/Sacchan-VRC/SaccFlightAndVehicles) into the window, as its assets are used. Once that is done, open the scene folder and drag the item in there to the heirarchy panel (default on the left side) within Unity. right click the "untitled scene" and select "unload scene". And that's it. 
+Now, import the latest release of [Sacc Flight and Vehicles](https://github.com/Sacchan-VRC/SaccFlightAndVehicles) into the window, as its assets are used. Once that is done, open the scene folder and drag the item in there to the heirarchy panel (default on the left side) within Unity. right click the "untitled" and select "unload scene". And that's it. 
 
 Note, that you can build and est these worlds all you want, but will probably encounter issues trying to upload if VRC's SDK is being incompetent. 
